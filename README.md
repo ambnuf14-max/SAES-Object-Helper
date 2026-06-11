@@ -8,6 +8,10 @@
 ![MoonLoader](https://img.shields.io/badge/MoonLoader-required-blue)
 ![auto-update](https://img.shields.io/badge/auto--update-✓-success)
 
+<img src="assets/tape.jpg" width="49%" alt="Инструмент «Лента»"> <img src="assets/server.jpg" width="49%" alt="Установка объектов на сервер">
+
+<img src="assets/menu.png" width="40%" alt="Главное меню">
+
 </div>
 
 ---
