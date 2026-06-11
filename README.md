@@ -1,12 +1,11 @@
 <div align="center">
 
-# 🧩 SAES Object Helper
+# SAES Object Helper
 
 **Инструмент расстановки объектов для SA:MP (MoonLoader)** — живое 3D-превью, удобный редактор и установка объектов прямо на сервер.
 
 ![version](https://img.shields.io/badge/version-1.0.0-brightgreen)
 ![MoonLoader](https://img.shields.io/badge/MoonLoader-required-blue)
-![SA:MP](https://img.shields.io/badge/SA--MP-0.3.7-orange)
 ![auto-update](https://img.shields.io/badge/auto--update-✓-success)
 
 </div>
@@ -15,7 +14,7 @@
 
 ## 🔒 Доступ
 
-Скрипт **закрытый** — предназначен для участников **SAES**. При первом запуске требуется **авторизация через Discord** (привязка по токену). Доступ выдаётся по ролям: без подтверждённой роли функционал недоступен.
+Для доступа к функционалу скрипта требуется авторизация. Для успешной авторизации необходимо находиться в [Discord-сервере SAES](https://discord.gg/55n5KZkp2n) и иметь фракционные роли любой из фракций. На данном этапе скрипт доступен только игрокам раздела **SAES**.
 
 ---
 
@@ -82,7 +81,7 @@
 
 ## 💬 Поддержка
 
-- **Discord SAES:** https://discord.gg/saes
+- **Discord SAES:** https://discord.gg/55n5KZkp2n
 - Вопросы, предложения и баг-репорты — через **тикеты** на Discord-сервере.
 
 ---
