@@ -1,7 +1,7 @@
 {
-  "latest": "1.0.1",
+  "latest": "1.0.2",
   "min_supported": "0.1.0",
   "url": "https://raw.githubusercontent.com/ambnuf14-max/SAES-Object-Helper/main/ObjMapper.lua",
-  "changelog": "v1.0.1\n- Стабильность EntityRender на разных сборках (0.3DL и пр.): хук рендера обёрнут в защиту — вместо вылета превью просто отключается; идемпотентная инициализация.\n- Диагностический сбор данных EntityRender (лог moonloader/lib/EntityRender_diag.log) для разбора крашей превью.\n- Антифлуд: команда-«отвлекалка» теперь случайная, перехват её диалога убран.",
+  "changelog": "v1.0.2\n- EntityRender: хук рендера переведён на safetyhook — корректно сосуществует с чужими хуками (фикс краша на 0.3DL и подобных сборках).\n- Диагностика по команде /objhelper debug on (и off): собирает версии MoonLoader/GTA/SA-MP, библиотек, окружение и постадийный лог в moonloader/lib/EntityRender_diag.log — без перезапуска игры.",
   "repo": "https://github.com/ambnuf14-max/SAES-Object-Helper"
 }
