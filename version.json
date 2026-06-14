@@ -1,0 +1,8 @@
+{
+  "latest": "1.0.7",
+  "min_supported": "1.0.7",
+  "url": "https://raw.githubusercontent.com/ambnuf14-max/SAES-Object-Helper/main/moonloader/ObjMapper.lua",
+  "changelog": "v1.0.7\n- Репозиторий переоформлен: все файлы скрипта собраны в одну папку moonloader/. Установка теперь сводится к переносу этой папки в корень с игрой.\n- Авто-обновление переведено на новую структуру путей (moonloader/...). Переход с 1.0.6 — бесшовный: обновляется только сам скрипт.\n- README: наведён порядок в разделе установки.",
+  "repo": "https://github.com/ambnuf14-max/SAES-Object-Helper",
+  "files": [{"path":"moonloader/ObjMapper.lua","size":1062187,"script":true}]
+}
